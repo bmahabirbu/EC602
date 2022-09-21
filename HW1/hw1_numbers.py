@@ -1,4 +1,5 @@
 #Copyright 2022 Brian Mahabir bmahabir@bu.edu
+#Copyright 2022 Orif Negmatov on0007@bu.edu
 #import math
 
 def divisorsum(x):
